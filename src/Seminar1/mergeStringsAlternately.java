@@ -17,6 +17,6 @@ package Seminar1;
             while (j < word2.length()) {
                 sb.append(word2.charAt(j++));
             }
-            System.out.println(sb.toString());
+            System.out.println(sb);
         }
     }
